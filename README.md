@@ -6,4 +6,5 @@ This is an advanced maze where you navigate through the maze as a Mini Squirrel 
 -------|--------|------|-------|
 Moves Forward|Moves Left|Moves Down|Moves Right|
 
-[Scratch](https://scratch.mit.edu/)
+The link to my scratch Project is
+[Here](https://scratch.mit.edu/)
